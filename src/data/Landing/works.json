@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/imgs/all_projects/COCOON_STREET_MASTER_THUMB.jpg",
+    "title": "Cocoon Vietnam - Sữa chống nắng bí đao",
+    "info": {
+      "online_vfx": "Flow Studio"
+    },
+    "video": "https://player.vimeo.com/video/887569761"
+  },
+  {
+    "id": 2,
+    "image": "/assets/imgs/projects/BLANC_THUMB.png",
+    "title": "TVC BLANC 1664 - Bia cực chất, Gu độc nhất",
+    "info": {
+      "client": "Carlsberg",
+      "agency": "Click Media",
+      "cgi_by": "Flow Studio",
+      "ph": null,
+      "production_house": null,
+      "post_production": null
+    },
+    "video": "https://player.vimeo.com/video/835332278"
+  },
+  {
+    "id": 3,
+    "image": "/assets/imgs/projects/COMFORT_THUMB.png",
+    "title": "Comfort Hương nước hoa Thanh Xuân",
+    "info": {
+      "client": "Unilever",
+      "agency": "U.Studio",
+      "ph": "ALIEN MEDIA",
+      "cgi_by": "Flow Studio x AlienMedia"
+    },
+    "video": "https://player.vimeo.com/video/826088157"
+  },
+  {
+    "id": 4,
+    "image": "/assets/imgs/projects/Haphom_THUMB.jpg",
+    "title": "Hoàng Thuỳ Linh - Hạ Phỏm",
+    "info": null,
+    "video": "https://player.vimeo.com/video/794010637"
+  },
+  {
+    "id": 5,
+    "image": "/assets/imgs/projects/TNOAL_THUMB.jpg",
+    "title": "SƠN TÙNG M-TP | THERE’S NO ONE AT ALL (ANOTHER VERSION)",
+    "info": null,
+    "video": "https://player.vimeo.com/video/726967848"
+  },
+  {
+    "id": 6,
+    "image": "/assets/imgs/projects/SPRITE_TRAFFIC_THUMB.jpg",
+    "title": "SPRITE, HẠ NHIỆT NÀO, SAO PHẢI NÓNG?",
+    "info": {
+      "client": "SPRITE",
+      "agency": "T&A Ogilvy",
+      "production_house": "OKSIS Studio",
+      "post_production": "Flow Studio"
+    },
+    "video": "https://player.vimeo.com/video/840040394"
+  },
+  {
+    "id": 7,
+    "image": "/assets/imgs/projects/Karik_Bandoi_THUMB.png",
+    "title": "KARIK - BẠN ĐỜI (FT. GDUCKY) | OFFICIAL MUSIC VIDEO",
+    "info": null,
+    "video": "https://player.vimeo.com/video/889540620"
+  }
+]

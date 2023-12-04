@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/imgs/clients/Aquafina.png"
+  },
+  {
+    "id": 2,
+    "image": "/assets/imgs/clients/blanc-logo.png"
+  },
+  {
+    "id": 3,
+    "image": "/assets/imgs/clients/Comfort.png"
+  },
+  {
+    "id": 4,
+    "image": "/assets/imgs/clients/Lays-logo.png"
+  },
+  {
+    "id": 5,
+    "image": "/assets/imgs/clients/milo_logo.png"
+  },
+  {
+    "id": 6,
+    "image": "/assets/imgs/clients/MTP_logo.png"
+  },
+  {
+    "id": 7,
+    "image": "/assets/imgs/clients/P_G_logo.png"
+  },
+  {
+    "id": 8,
+    "image": "/assets/imgs/clients/Pepsi_logo.png"
+  },
+  {
+    "id": 9,
+    "image": "/assets/imgs/clients/Sprite_Logo.png"
+  },
+  {
+    "id": 10,
+    "image": "/assets/imgs/clients/Unilever-logo.png"
+  }
+]

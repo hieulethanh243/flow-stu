@@ -1,0 +1,291 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/imgs/all_projects/COCOON_STREET_MASTER_THUMB.jpg",
+    "title": "Cocoon Vietnam - Sữa chống nắng bí đao",
+    "info": {
+      "online_vfx": "Flow Studio"
+    },
+    "video": "https://player.vimeo.com/video/887569761"
+  },
+  {
+    "id": 2,
+    "image": "/assets/imgs/all_projects/BLANC_THUMB.png",
+    "title": "TVC BLANC 1664 - Bia cực chất, Gu độc nhất",
+    "info": {
+      "client": "Carlsberg",
+      "agency": "Click Media",
+      "cgi_by": "Flow Studio",
+      "ph": null,
+      "production_house": null,
+      "post_production": null
+    },
+    "video": "https://player.vimeo.com/video/835332278"
+  },
+  {
+    "id": 3,
+    "image": "/assets/imgs/all_projects/COMFORT DE UI_THUMB.png",
+    "title": "Comfort Hương nước hoa Thanh Xuân",
+    "info": {
+      "client": "Unilever",
+      "agency": "U.Studio",
+      "ph": "ALIEN MEDIA",
+      "cgi_by": "Flow Studio x AlienMedia"
+    },
+    "video": "https://player.vimeo.com/video/826088157"
+  },
+  {
+    "id": 4,
+    "image": "/assets/imgs/all_projects/Haphom_Thumb.jpg",
+    "title": "Hoàng Thuỳ Linh - Hạ Phỏm",
+    "info": null,
+    "video": "https://player.vimeo.com/video/794010637"
+  },
+  {
+    "id": 5,
+    "image": "/assets/imgs/all_projects/TNOAL_THUMB.jpg",
+    "title": "SƠN TÙNG M-TP | THERE’S NO ONE AT ALL (ANOTHER VERSION)",
+    "info": null,
+    "video": "https://player.vimeo.com/video/726967848"
+  },
+  {
+    "id": 6,
+    "image": "/assets/imgs/all_projects/MIN_CAPHE_THUMB.jpg",
+    "title": "MIN - CÀ PHÊ",
+    "info": null,
+    "video": "https://player.vimeo.com/video/691709296"
+  },
+  {
+    "id": 7,
+    "image": "/assets/imgs/all_projects/UEXL_THUMB.jpg",
+    "title": "Ừ! EM XIN LỖI - HOÀNG YẾN CHIBI X B RAY X KHẮC HƯNG",
+    "info": null,
+    "video": "https://player.vimeo.com/video/765203129"
+  },
+  {
+    "id": 8,
+    "image": "/assets/imgs/all_projects/CKGMDT_THUMB.jpg",
+    "title": "Trúc Nhân | Có Không Giữ Mất Đừng Tìm",
+    "valign": true,
+    "info": null,
+    "video": "https://player.vimeo.com/video/714348342"
+  },
+  {
+    "id": 9,
+    "image": "/assets/imgs/all_projects/OMO_MATIC_THUMB.png",
+    "title": "NƯỚC GIẶT OMO MATIC COMFORT - TINH DẦU HƯƠNG NƯỚC HOA ĐA TẦNG",
+    "info": {
+      "client": "Omo Viet Nam",
+      "agency": "UStudio",
+      "ph": "Sake Production",
+      "cgi_vfx_by": "Flow Studio & Indigo"
+    },
+    "video": "https://player.vimeo.com/video/863911670"
+  },
+  {
+    "id": 10,
+    "image": "/assets/imgs/all_projects/ZALOPAY_THUMB.jpg",
+    "title": "ZALOPAY | TÀI KHOẢN TÍCH LŨY",
+    "info": {
+      "client": "ZaloPay",
+      "ph": "Alien Media",
+      "director": "Lê Quân",
+      "cgi_cash": "Flow Studio"
+    },
+    "video": "https://player.vimeo.com/video/780599206"
+  },
+  {
+    "id": 11,
+    "image": "/assets/imgs/all_projects/DMEDUS_THUMB.jpg",
+    "title": "ĐÔNG NHI - ĐÔI MI EM ĐANG U SẦU FT. WOWY",
+    "info": null,
+    "video": "https://player.vimeo.com/video/710253724"
+  },
+  {
+    "id": 12,
+    "image": "/assets/imgs/all_projects/Karik_Bandoi_THUMB.jpg",
+    "title": "KARIK - BẠN ĐỜI (FT. GDUCKY) | OFFICIAL MUSIC VIDEO",
+    "info": null,
+    "video": "https://player.vimeo.com/video/889540620"
+  },
+  {
+    "id": 13,
+    "image": "/assets/imgs/all_projects/Lays_TLDMV_THUMB.jpg",
+    "title": "TẾT LÀ ĐÔNG MỚI VUI - ĐỨC PHÚC x GDUCKY x DTAP",
+    "info": {
+      "client_cuc_vui": "Lay's",
+      "agency_dzui_dzui": "Dentsu Redder",
+      "production_house_vui_vui_vui_vui": "Alien Media",
+      "vfx_cg_vui_tet_run_by": "FLOW STUDIO X ALIEN MEDIA"
+    },
+    "video": "https://player.vimeo.com/video/774974026"
+  },
+  {
+    "id": 14,
+    "image": "/assets/imgs/all_projects/MaxKleen_THUMB.jpg",
+    "title": "MAXKLEEN | Cả Năm Có “Gặt”, Tết Này Có “Xả”!",
+    "info": {
+      "client": "MaxKleen Vietnam",
+      "agency": "Hakuhodo",
+      "ph": "Alien Media",
+      "cgi_vfx_by": "Flow Studio"
+    },
+    "video": "https://player.vimeo.com/video/780282672"
+  },
+  {
+    "id": 15,
+    "image": "/assets/imgs/all_projects/TEAPLUS_MASTER_THUMB.jpg",
+    "title": "Trà Ô Long TEA+ 'Chai từng trải'",
+    "info": {
+      "client": "Suntory Pepsico Vietnam",
+      "agency": "Dentsu Redder",
+      "ph": "Dabe Production",
+      "offline_online_vfx_cgi_by": "Flow Studio"
+    },
+    "video": "https://player.vimeo.com/video/880385659"
+  },
+  {
+    "id": 16,
+    "image": "/assets/imgs/all_projects/SPRITE_SPICE_THUMB.jpg",
+    "title": "SPRITE, HẠ NHIỆT NÀO, SAO PHẢI NÓNG?",
+    "info": {
+      "client": "SPRITE",
+      "agency": "T&A Ogilvy",
+      "production_house": "OKSIS Studio",
+      "post_production": "Flow Studio"
+    },
+    "video": "https://player.vimeo.com/video/840038667"
+  },
+  {
+    "id": 17,
+    "image": "/assets/imgs/all_projects/SPRITE_PARKING_THUMB.jpg",
+    "title": "SPRITE, HẠ NHIỆT NÀO, SAO PHẢI NÓNG?",
+    "info": {
+      "client": "SPRITE",
+      "agency": "T&A Ogilvy",
+      "production_house": "OKSIS Studio",
+      "post_production": "Flow Studio"
+    },
+    "video": "https://player.vimeo.com/video/840000624"
+  },
+  {
+    "id": 18,
+    "image": "/assets/imgs/all_projects/Comfortbade-thumb.jpg",
+    "title": "Comfort Nước giặt Dưỡng vải đa năng",
+    "info": null,
+    "video": "https://player.vimeo.com/video/864727644"
+  },
+  {
+    "id": 19,
+    "image": "/assets/imgs/all_projects/Milo_dau_THUMB.jpg",
+    "title": "TVC Milo Powder Summer",
+    "info": {
+      "client": "Nestlé VietNam",
+      "agency": "Ogilvy",
+      "ph": "Cheddar Asia",
+      "cgi_online": "Flow Studio"
+    },
+    "video": "https://player.vimeo.com/video/734223263"
+  },
+  {
+    "id": 20,
+    "image": "/assets/imgs/all_projects/Milo_bo_THUMB.jpg",
+    "title": "TVC Milo Powder Summer",
+    "info": {
+      "client": "Nestlé VietNam",
+      "agency": "Ogilvy",
+      "ph": "Cheddar Asia",
+      "cgi_online": "Flow Studio"
+    },
+    "video": "https://player.vimeo.com/video/734222776"
+  },
+  {
+    "id": 21,
+    "image": "/assets/imgs/all_projects/AQUA_THUMB.jpg",
+    "title": "TVC AQUAFINA - SẢI BƯỚC CỘNG ĐỒNG SÓNG XANH",
+    "info": null,
+    "video": "https://player.vimeo.com/video/851544366"
+  },
+  {
+    "id": 22,
+    "image": "/assets/imgs/all_projects/SPRITE_TRAFFIC_THUMB.jpg",
+    "title": "SPRITE, HẠ NHIỆT NÀO, SAO PHẢI NÓNG?",
+    "info": {
+      "client": "SPRITE",
+      "agency": "T&A Ogilvy",
+      "production_house": "OKSIS Studio",
+      "post_production": "Flow Studio"
+    },
+    "video": "https://player.vimeo.com/video/840040394"
+  },
+  {
+    "id": 23,
+    "image": "/assets/imgs/all_projects/DACC_THUMB.png",
+    "title": "Đáp Án Cuối Cùng | QUÂN A.P x NGUYỄN PHÚC THIỆN",
+    "info": null,
+    "video": "https://player.vimeo.com/video/752868734"
+  },
+  {
+    "id": 24,
+    "image": "/assets/imgs/all_projects/PMC_VTCA_thumb.jpg",
+    "title": "PHƯƠNG MỸ CHI x DTAP - VŨ TRỤ CÓ ANH ft. Pháo",
+    "info": null,
+    "video": "https://player.vimeo.com/video/821516107"
+  },
+  {
+    "id": 25,
+    "image": "/assets/imgs/all_projects/DDRNNA_THUMB.jpg",
+    "title": "ĐÀO ĐÂU RA NGƯỜI NHƯ ANH - HOÀNG YẾN CHIBI",
+    "info": null,
+    "video": "https://player.vimeo.com/video/889535781"
+  },
+  {
+    "id": 26,
+    "image": "/assets/imgs/all_projects/Veduongcong-thumb.jpg",
+    "title": "TRÚC NHÂN X THÙY TIÊN | VẼ ĐƯỜNG CONG",
+    "info": null,
+    "video": "https://player.vimeo.com/video/765633550"
+  },
+  {
+    "id": 27,
+    "image": "/assets/imgs/all_projects/BlackHickey-Thumb.jpg",
+    "title": "BLACK HICKEY - Chi Pu x Nguyễn Phúc Thiện",
+    "info": null,
+    "video": "https://player.vimeo.com/video/739606880"
+  },
+  {
+    "id": 28,
+    "image": "/assets/imgs/all_projects/YKCE_THUMB.jpg",
+    "title": "Bảo Anh - Yêu Không Cần Ép | Official Music Video",
+    "info": null,
+    "video": "https://player.vimeo.com/video/685788562"
+  },
+  {
+    "id": 29,
+    "image": "/assets/imgs/all_projects/DDSS-thumb.jpg",
+    "title": "DUYÊN DUYÊN SỐ SỐ - DU UYÊN",
+    "info": null,
+    "video": "https://player.vimeo.com/video/686581915"
+  },
+  {
+    "id": 30,
+    "image": "/assets/imgs/all_projects/TTYT-TV-thumb.jpg",
+    "title": "Thúy Vân | Trái Tim Yêu Thương",
+    "info": null,
+    "video": "https://player.vimeo.com/video/739870310"
+  },
+  {
+    "id": 31,
+    "image": "/assets/imgs/all_projects/bocalex-thumb.jpg",
+    "title": "OCALEX MULTI - VIÊN SỦI VUI XỈU",
+    "info": null,
+    "video": "https://player.vimeo.com/video/818257422"
+  },
+  {
+    "id": 32,
+    "image": "/assets/imgs/all_projects/TVHV_THUMB.jpg",
+    "title": "THÚ VỊ HƠN VẬY - TRỌNG HIẾU (ft. Quỳnh Anh Shyn)",
+    "info": null,
+    "video": "https://player.vimeo.com/video/739620657"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/imgs/labs/ha_phom_thumb.jpg",
+    "title": "VFX Breakdown - MV HẠ PHỎM",
+    "video": "https://player.vimeo.com/video/794012893"
+  },
+  {
+    "id": 2,
+    "image": "/assets/imgs/labs/trung_thu_thumb.jpg",
+    "title": "Happy Mid-Autumn Festival 2022",
+    "video": "https://player.vimeo.com/video/748691992"
+  },
+  {
+    "id": 3,
+    "image": "/assets/imgs/labs/MV_VTCA_thumb.jpg",
+    "title": "VFX BREAKDOWN - MV VŨ TRỤ CÓ ANH",
+    "video": "https://player.vimeo.com/video/826112255"
+  },
+  {
+    "id": 4,
+    "image": "/assets/imgs/labs/Blanc_Processreel_thumb.jpg",
+    "title": "Process Reel - Blanc",
+    "info": null,
+    "video": "https://player.vimeo.com/video/839990882"
+  },
+  {
+    "id": 5,
+    "image": "/assets/imgs/labs/A_Little_Peace_thumb.jpg",
+    "title": "A Little Peace",
+    "info": null,
+    "video": "https://player.vimeo.com/video/686630101"
+  },
+  {
+    "id": 6,
+    "image": "/assets/imgs/labs/Milo_thumb.jpg",
+    "title": "CG BREAKDOWN - MILO SUMMER POWDER",
+    "video": "https://player.vimeo.com/video/736405147"
+  },
+  {
+    "id": 7,
+    "image": "/assets/imgs/labs/MV_DACC_thumb.jpg",
+    "title": "VFX BREAKDOWN - MV Đáp Án Cuối Cùng",
+    "video": "https://player.vimeo.com/video/754243133"
+  }
+]

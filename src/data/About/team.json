@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2,
+    "title": "Đinh Thịnh",
+    "role": "CEO / CO-FOUNDER",
+    "image": "/assets/imgs/team/dinhthinh.png"
+  },
+  {
+    "id": 3,
+    "title": "Trường Giang",
+    "role": "3D LEAD / CO-FOUNDER",
+    "image": "/assets/imgs/team/truonggiang.png"
+  },
+  {
+    "id": 4,
+    "title": "Hita Nguyễn",
+    "role": "COMPOSITOR",
+    "image": "/assets/imgs/team/hitanguyen.png"
+  },
+  {
+    "id": 5,
+    "title": "Xuân Hon",
+    "role": "COMPOSITOR",
+    "image": "/assets/imgs/team/xuanhon.png"
+  },
+  {
+    "id": 6,
+    "title": "Khánh Linh",
+    "role": "POST-PRODUCER",
+    "image": "/assets/imgs/team/khanhlinh.png"
+  },
+  {
+    "id": 7,
+    "title": "Thái Sơn",
+    "role": "3D ARTIST",
+    "image": "/assets/imgs/team/thaison.png"
+  },
+  {
+    "id": 8,
+    "title": "BIBI",
+    "role": "Junior Boss",
+    "image": "/assets/imgs/team/bibi.png"
+  },
+  {
+    "id": 1,
+    "title": "BOO",
+    "role": "Senior Boss",
+    "image": "/assets/imgs/team/Booo.png"
+  }
+]

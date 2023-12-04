@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/imgs/projects/CKGMDT_THUMB.jpg",
+    "title": "Space Needle",
+    "category": "Branding",
+    "link": "/project1",
+    "valign": true,
+    "col": 4
+  },
+  {
+    "id": 2,
+    "image": "/assets/imgs/projects/BLANC_THUMB.png",
+    "title": "Carved Wood",
+    "category": "Branding",
+    "link": "/project2",
+    "offset": true,
+    "col": 6
+  },
+  {
+    "id": 3,
+    "image": "/assets/imgs/projects/COMFORT_THUMB.png",
+    "title": "Earthmade Aroma",
+    "category": "Branding",
+    "link": "/project3",
+    "offset": true,
+    "col": 8
+  },
+  {
+    "id": 4,
+    "image": "/assets/imgs/projects/Haphom_THUMB.jpg",
+    "title": "Bank Rebranding",
+    "category": "Branding",
+    "link": "/project4",
+    "col": 6
+  },
+  {
+    "id": 5,
+    "image": "/assets/imgs/projects/TNOAL_THUMB.jpg",
+    "title": "Day Starter",
+    "category": "Branding",
+    "link": "/project1",
+    "offset": true,
+    "col": 4
+  },
+  {
+    "id": 6,
+    "image": "/assets/imgs/projects/SPRITE_TRAFFIC_THUMB.jpg",
+    "title": "Day Starter",
+    "category": "Branding",
+    "link": "/project1",
+    "offset": true,
+    "col": 4
+  },
+  {
+    "id": 7,
+    "image": "/assets/imgs/projects/Karik_Bandoi_THUMB.png",
+    "title": "Day Starter",
+    "category": "Branding",
+    "link": "/project1",
+    "offset": true,
+    "col": 4
+  }
+]
