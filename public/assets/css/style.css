@@ -1053,7 +1053,7 @@ figure {
 }
 
 @media (max-width: 600px) {
-  .main-marq .slide-har {
+  .main-marq .slide-har.mobile-hidden {
     display: none;
   }
 
@@ -5643,6 +5643,12 @@ footer .logo img {
   justify-content: end;
 }
 
+@media (max-width: 600px) {
+  .work .all-projects-link {
+    width: 95%;
+    margin: 0 2.5%;
+  }
+}
 .work .all-projects-link .fit-text {
   width: fit-content;
 }
@@ -6850,8 +6856,13 @@ footer .logo img {
     margin: 0 !important;
   }
   .marquee.mt-80 {
-    margin-top: 0 !important;
+    /* margin-top: 0 !important; */
   }
+
+  .marquee {
+    margin-left: -15px;
+  }
+
   .text-reval .fz-50,
   .text-reval .text {
     font-size: 38px !important;
@@ -7640,6 +7651,12 @@ footer .logo img {
 }
 
 /* Clients */
+
+@media (max-width: 600px) {
+  .logo-clients {
+    margin-bottom: 120px;
+  }
+}
 
 .logo-clients .container-fluid {
   width: 60%;

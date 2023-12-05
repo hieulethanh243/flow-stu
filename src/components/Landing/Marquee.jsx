@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react';
 //= Static Data
-import data from "@/data/Landing/marquee.json";
+import data from '@/data/Landing/marquee.json';
 
 function Marquee() {
   return (

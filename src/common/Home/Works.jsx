@@ -13,7 +13,7 @@ function Works() {
           <div className="row">
             <div className="col-12">
               <div className="main-marq">
-                <div className="slide-har st1">
+                <div className="slide-har mobile-hidden st1">
                   <div className="box non-strok">
                     {new Array(5).fill().map((_, i) => (
                       <div className="item" key={i}>
