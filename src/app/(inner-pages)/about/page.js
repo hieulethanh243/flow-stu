@@ -49,7 +49,7 @@ export default function About() {
       <div id="smooth-wrapper">
         <Navbar />
         <Menu />
-        <div id="smooth-content">
+        <div id="smooth-content" className="smooth-content">
           <main className="main-bg">
             <Header />
             <Intro />

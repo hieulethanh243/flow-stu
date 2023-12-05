@@ -36,9 +36,9 @@ function Footer1({ subBg }) {
                 <h6 className="sub-title" style={{ color: 'white' }}>
                   we would love to hear from you.
                 </h6>
-                <h2 className="underline fz-60">
+                <h3 className="underline fz-50">
                   <a href="#0">contact@flowstu.com</a>
-                </h2>
+                </h3>
               </div>
             </div>
             <div className="col-lg-3">
@@ -61,7 +61,7 @@ function Footer1({ subBg }) {
           <div className="row">
             <div className="col-lg-4">
               {/* <Link href={'/contact'}>Contact</Link> */}
-              <div className="o-hidden">
+              <div className="o-hidden text-center">
                 <a href="/contact" className="link animsition-link">
                   Contact
                 </a>

@@ -70,7 +70,7 @@ export default function LandingPagePreview() {
       <div id="smooth-wrapper">
         <Navbar borderBottom />
         <Menu />
-        <div id="smooth-content">
+        <div id="smooth-content" className="smooth-content">
           <main className="main-bg">
             <Video />
             <Marquee />

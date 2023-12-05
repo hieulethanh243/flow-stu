@@ -36,7 +36,7 @@ export default function LabsPage() {
       <div id="smooth-wrapper">
         <Navbar />
         <Menu />
-        <div id="smooth-content">
+        <div id="smooth-content" className="smooth-content">
           <main className="main-bg">
             <Video />
 
