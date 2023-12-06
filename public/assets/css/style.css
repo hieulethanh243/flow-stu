@@ -7579,7 +7579,12 @@ footer .logo img {
   width: 85%;
   margin: 0 auto;
 }
-
+@media (max-width: 600px) {
+  .project-grid-detail-project {
+    width: 95%;
+    column-count: 1 !important;
+  }
+}
 .figure {
   position: relative;
   overflow: hidden;
