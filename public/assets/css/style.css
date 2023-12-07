@@ -7555,6 +7555,14 @@ footer .logo img {
   font-size: 20px;
 }
 
+@media (max-width: 600px) {
+  .custom-modal .modal-title {
+    position: absolute;
+    left: 0;
+    width: 100%;
+  }
+}
+
 .custom-modal .next-arrow {
   position: absolute;
   right: 0;
@@ -7730,4 +7738,22 @@ footer .logo img {
 .smooth-content {
   width: 100% !important;
   overflow: hidden !important;
+}
+
+@media (max-width: 992px) {
+  .copyright.contact {
+    display: none;
+  }
+
+  .copyright p {
+    color: white;
+    opacity: 0.8;
+    padding: 10px 0;
+    font-size: 10px !important;
+  }
+}
+
+.copyright p {
+  color: white;
+  font-size: 13px;
 }

@@ -6,7 +6,9 @@ function Footer() {
   useEffect(() => {
     handleResize();
     window.addEventListener('resize', handleResize);
-    () => window.removeEventListener('resize', handleResize);
+    return () => {
+      window.removeEventListener('resize', handleResize);
+    };
   }, []);
 
   function handleResize() {
@@ -27,11 +29,11 @@ function Footer() {
 
   return (
     <footer>
-      <div className="footer-container" style={{ textAlign: 'center' }}>
-        <div className="container bord pt-70 bord-thin-top">
+      <div className="footer-container" style={{ textAlign: 'left' }}>
+        <div className="container bord pt-70 pb-10 bord-thin-top">
           <div className="row">
             <div className="col-lg-4">
-              <div className="copyright ">
+              <div className="copyright contact">
                 <Link href={'/contact'}>Contact</Link>
               </div>
             </div>
@@ -65,10 +67,8 @@ function Footer() {
               </div>
             </div>{' '}
             <div className="col-lg-4">
-              <div className="copyright" style={{ color: 'white' }}>
-                <div className="ml-auto">
-                  <p className="fz-13">© Copyright 2022 Flow Studio </p>
-                </div>
+              <div className="copyright">
+                <p>© Copyright 2022 Flow Studio </p>
               </div>
             </div>
           </div>

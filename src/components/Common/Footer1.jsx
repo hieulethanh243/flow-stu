@@ -55,19 +55,16 @@ function Footer1({ subBg }) {
           </div>
         </div>
         <div
-          className="container bord pt-30 pb-30 bord-thin-top"
+          className="container bord pt-30 pb-20 bord-thin-top"
           style={{ color: 'white' }}
         >
           <div className="row">
             <div className="col-lg-4">
-              {/* <Link href={'/contact'}>Contact</Link> */}
-              <div className="o-hidden text-center">
-                <a href="/contact" className="link animsition-link">
-                  Contact
-                </a>
+              <div className="copyright contact">
+                <Link href={'/contact'}>Contact</Link>
               </div>
             </div>
-            <div className="col-lg-4" style={{ textAlign: 'center' }}>
+            <div className="col-lg-4">
               <div className="links">
                 <ul className="rest">
                   <li>
@@ -95,14 +92,10 @@ function Footer1({ subBg }) {
                   </li>
                 </ul>
               </div>
-            </div>
+            </div>{' '}
             <div className="col-lg-4">
-              <div className="copyright d-flex">
-                <div className="ml-auto">
-                  <p className="fz-13" style={{ color: 'white' }}>
-                    © Copyright 2022 Flow Studio
-                  </p>
-                </div>
+              <div className="copyright">
+                <p>© Copyright 2022 Flow Studio </p>
               </div>
             </div>
           </div>

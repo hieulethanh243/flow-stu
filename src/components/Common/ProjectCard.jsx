@@ -9,6 +9,20 @@ function ProjectCard({ project, index }) {
   const [test, setTest] = useState(true);
   const [projectData, setProjectData] = useState(project);
 
+  const [videoHeight, setVideoHeight] = useState(500);
+
+  useEffect(() => {
+    handleChangeVideoHeight();
+    window.addEventListener('resize', handleChangeVideoHeight);
+    return () => {
+      window.addEventListener('resize', handleChangeVideoHeight);
+    };
+  }, []);
+
+  const handleChangeVideoHeight = () => {
+    setVideoHeight(Math.min(500, ((window.innerWidth * 0.8) / 16) * 9));
+  };
+
   const showModal = () => {
     setIsModalOpen(true);
   };
@@ -64,7 +78,7 @@ function ProjectCard({ project, index }) {
             title="vimeo-player"
             src={projectData.video}
             width="100%"
-            height="500"
+            height={videoHeight}
             allowFullScreen
           ></iframe>
           <div className="modal-title">{projectData.title}</div>
